@@ -68,8 +68,8 @@
         }
 		
 		.step-text a {
-            color: white;
-			text-decoration: none;
+            color: blue;
+			text-decoration:underline;
         }
 		
 		.step-text a:hover {
